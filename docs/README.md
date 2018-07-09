@@ -1,4 +1,4 @@
-## [21pleb](https://21pleb.github.io)/[_config_automoderator](./_config_automoderator)
+## [21pleb](https://21pleb.github.io)/[_config_automoderator](/_config_automoderator)
 
 ### Script
 
